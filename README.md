@@ -1,2 +1,3 @@
+
 # ParticleSystem
-An engine made with OpenGL - Generate and simulate particles in a sandbox environment 
+![fire](https://imgur.com/y33UiPh)
